@@ -1,0 +1,23 @@
+{
+  "name": "first-npm-package",
+  "version": "1.0.0",
+  "description": "Npm package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgearanha/first-npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "Jorge Aranha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgearanha/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/jorgearanha/first-npm-package#readme"
+}
